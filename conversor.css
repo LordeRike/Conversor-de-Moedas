@@ -1,0 +1,83 @@
+body {
+  font-family: "Courier New", monospace;
+  min-height: 400px;
+  background-image: url("https://images.vexels.com/media/users/3/135829/isolated/preview/1a857d341d8b6dd31426d6a62a8d9054-icone-de-moeda-de-moeda-de-dolar.png");
+  background-color: #283f8a;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  alignment-adjust: center;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #c1abed;
+  margin: 8 8 15px;
+  font-size: 40px;
+
+  box-shadow: 17px 0 0 0 #3104c4, -9px 0 0 0 #3104c4;
+  background: #0f0140;
+  display: inline;
+  padding: 5px 0 !important;
+  position: relative;
+  border-radius: 10px;
+}
+
+.page-subtitle {
+  color: #c1abed;
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.page-logo {
+  width: 200px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: #c1abed;
+  font-size: 17px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+button2 {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #c1abed;
+  font-size: 30px;
+  padding-left: 25px;
+  align-items: center;
+  outline-color: #6934d1;
+  outline-offset: 10px;
+}
